@@ -10,7 +10,7 @@
         Automated Database Backup
     """,
 
-    'author': "Ergo Ventures Ltd",
+    'author': "MIR GROUP BACKUP",
     'website': "http://www.ergo-ventures.com",
 
     # Categories can be used to filter modules in modules listing
